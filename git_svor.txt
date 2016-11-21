@@ -1,0 +1,8 @@
+Git spurningar og svör”
+1. Hvað gera eftirfarandi Linux skipanir?
+	
+	Cd notað til að breyta directory
+	cd ~ fer í home directory
+	ls sýnir lista með innihaldi directory
+	pwd sýnir directory sem meður er í núna
+	mkdir stytting á make directory, sem býr til nýtt directory.
