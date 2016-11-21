@@ -6,3 +6,10 @@ Git spurningar og svör
 	ls sýnir lista með innihaldi directory
 	pwd sýnir directory sem meður er í núna
 	mkdir stytting á make directory, sem býr til nýtt directory.
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone halar niður öllu project og öllum öðrum versions. Gagnglegt t.d. ef einhver nýr er að byrja eða taka yfir verkefninu.
+	git log sýnir version history fyrir ákveðinn branch
+	git status sýnir allar nýja og breyttar færslur áður en það þær eru commitaðar.  Gagnlegt til að sjá hvað maður er búinn að gera og hvort einhvað vanti.
+	git diff sýnir breytingar á milli mismunandi aðgerða, t.d. milli tveggja blob, eða tveggja trees.
+	git checkout þessi skipun skiptir á milli branches og er hægt að nota til að sjá eldri commits.
