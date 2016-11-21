@@ -18,3 +18,6 @@ Git spurningar og svör
 	a) git diff . sýnir breytingar sem hafa ekki verið commitaðar
 	b) git diff --staged .sýnir muninn á því sem er verið að vinna í og er ekki búið að commita, og síðasta versionið.
 	c) git diff commit1 commit2 . sýnir muninn á tveim mismunandi commits
+	4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+version control þýðir að það er hægt að skoða gömul version af verkefninu, þ.e.a.s. öll vinnusagan er vistuð. Kostið við git er að það er alltaf hægt að skoða hvað var verið að gera áður og hafa betri yfirsýn yfir þróun verkefnisins.
+
