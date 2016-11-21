@@ -1,4 +1,4 @@
-Git spurningar og svör
+﻿Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	
 	Cd notað til að breyta directory
@@ -27,3 +27,5 @@ nógu oft, en ekki svo oft að maður hafi óþægilega mörg commits. T.d. ef n
 Working directory is t.d. local mappan sem þú ert að vinna í, word, eða annað forrit. Staging area er síðan þegar það er gert git add . og þá fara gögnin í millisvæði sem síðan er hægt að vinna nánar með. Repository er þar sem allt er síðan geymt, annað hvort local eða t.d. á Github.com
 7. Hvenær væri sniðugt að nota branches? 
 Með því að nota branches er hægt að gera tilraunir með einhvað án þess að hafa áhrif á aðal vinnuskjalið, og ef það heppnast vel þá er hægt að bæta því við vinnuskjalið.
+
+Tryggvi Már
