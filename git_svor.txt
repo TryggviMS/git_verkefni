@@ -21,3 +21,5 @@ Git spurningar og svör
 	4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
 version control þýðir að það er hægt að skoða gömul version af verkefninu, þ.e.a.s. öll vinnusagan er vistuð. Kostið við git er að það er alltaf hægt að skoða hvað var verið að gera áður og hafa betri yfirsýn yfir þróun verkefnisins.
 
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+nógu oft, en ekki svo oft að maður hafi óþægilega mörg commits. T.d. ef nýtt skjal er búið til eða breytingar sem maður veit að eigi að vera vistaðar. Gott að hugsa um commit eins og save í word.
