@@ -13,3 +13,8 @@ Git spurningar og svör
 	git status sýnir allar nýja og breyttar færslur áður en það þær eru commitaðar.  Gagnlegt til að sjá hvað maður er búinn að gera og hvort einhvað vanti.
 	git diff sýnir breytingar á milli mismunandi aðgerða, t.d. milli tveggja blob, eða tveggja trees.
 	git checkout þessi skipun skiptir á milli branches og er hægt að nota til að sjá eldri commits.
+3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff . sýnir breytingar sem hafa ekki verið commitaðar
+	b) git diff --staged .sýnir muninn á því sem er verið að vinna í og er ekki búið að commita, og síðasta versionið.
+	c) git diff commit1 commit2 . sýnir muninn á tveim mismunandi commits
